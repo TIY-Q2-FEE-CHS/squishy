@@ -1,0 +1,12 @@
+.posts ul {}
+.posts ul > li {
+	margin: 0;
+	padding:0;
+
+	border:0;
+	display:inline-block;
+	height:325px;
+	width:25%;
+	background:grey;
+}
+
